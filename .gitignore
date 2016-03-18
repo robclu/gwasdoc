@@ -1,0 +1,4 @@
+pipeline/.nextflow*
+pipeline/work
+pipeline/gwasdata
+pipeline/backup
